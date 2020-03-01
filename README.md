@@ -6,6 +6,7 @@ Worldlink API Laravel Implementation
 [![Downloads](https://img.shields.io/packagist/dt/TheBikramLama/worldlink.svg?style=flat-square)](https://packagist.org/packages/thebikramlama/worldlink)
 
 Demo: [Worldlink API Implementation](https://worldlink.bikramlama.com.np)
+Package Source: [Worldlink API Laravel Package](https://github.com/TheBikramLama/worldlink-package)
 
 ## Credits
 - [Bikram Lama](https://github.com/TheBikramLama)
